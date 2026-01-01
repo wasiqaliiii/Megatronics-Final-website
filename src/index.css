@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 62.5%;
+}
+.fade-in {
+  opacity: 0.8;
+  transition: all 0.3s;
+}
+
+.homeContainer img {
+  width: 100%;
+}
