@@ -1,11 +1,11 @@
 .homeBanners {
   width: 100%;
   height: auto;
-  /* overflow: hidden; */
+
 }
 .homeBanners img {
   width: 100%;
-  /* object-fit: contain; */
+
 }
 .shortImage{
   display: none;
@@ -31,13 +31,13 @@
   position: relative;
 }
 
-/* category start */
+
 
 .categoryContainer {
   margin-top: 20px;
   padding: 20px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Update grid-template-columns property */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
   gap: 20px;
   place-items: center;
   text-align: center;
